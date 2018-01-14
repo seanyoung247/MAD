@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 8e9241be5deba417ebc2112456166dbd
+timeCreated: 1491668052
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera.001
+    100002: Model
+    100004: //RootNode
+    100006: RBIntake
+    100008: RBIntakeCol
+    100010: RBSpineLong
+    100012: RBSpineLong_Col
+    100014: RBSpineLongEnd
+    100016: RBSpineLongEnd_Col
+    100018: RBSpineShort
+    100020: RBSpineShort_Col
+    100022: RBSpineShortEnd
+    100024: RBSpineShortEnd_Col
+    100026: RBIntake.001
+    400000: Camera.001
+    400002: Model
+    400004: RBIntake
+    400006: //RootNode
+    400008: RBIntakeCol
+    400010: RBSpineLong
+    400012: RBSpineLong_Col
+    400014: RBSpineLongEnd
+    400016: RBSpineLongEnd_Col
+    400018: RBSpineShort
+    400020: RBSpineShort_Col
+    400022: RBSpineShortEnd
+    400024: RBSpineShortEnd_Col
+    400026: RBIntake.001
+    2300000: Camera.001
+    2300002: Model
+    2300004: RBIntake
+    2300006: RBIntakeCol
+    2300008: RBSpineLong
+    2300010: RBSpineLong_Col
+    2300012: RBSpineLongEnd
+    2300014: RBSpineLongEnd_Col
+    2300016: RBSpineShort
+    2300018: RBSpineShort_Col
+    2300020: RBSpineShortEnd
+    2300022: RBSpineShortEnd_Col
+    2300024: RBIntake.001
+    3300000: Camera.001
+    3300002: Model
+    3300004: RBIntake
+    3300006: RBIntakeCol
+    3300008: RBSpineLong
+    3300010: RBSpineLong_Col
+    3300012: RBSpineLongEnd
+    3300014: RBSpineLongEnd_Col
+    3300016: RBSpineShort
+    3300018: RBSpineShort_Col
+    3300020: RBSpineShortEnd
+    3300022: RBSpineShortEnd_Col
+    3300024: RBIntake.001
+    4300000: Model
+    4300002: Camera.001
+    4300004: RBIntakeCol
+    4300006: RBIntake
+    4300008: RBSpineShortEnd_Col
+    4300010: RBSpineLongEnd_Col
+    4300012: RBSpineLongEnd
+    4300014: RBSpineShort
+    4300016: RBSpineShort_Col
+    4300018: RBSpineLong
+    4300020: RBSpineLong_Col
+    4300022: RBSpineShortEnd
+    4300024: RBIntake.001
+    6400000: RBIntake
+    6400002: RBIntake.001
+    6400004: RBIntakeCol
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

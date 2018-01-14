@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 6f6dd59c998b5425ebc96bb706dc0fba
+timeCreated: 1491564870
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RBSpineLongEnd
+    100004: RBSpineLongEnd_Col
+    100006: Camera.001
+    100008: Model
+    100010: RBSpineLong
+    100012: RBSpineLong_Col
+    100014: RBSpineShort
+    100016: RBSpineShort_Col
+    100018: RBSpineShortEnd
+    100020: RBSpineShortEnd_Col
+    400000: //RootNode
+    400002: RBSpineLongEnd
+    400004: RBSpineLongEnd_Col
+    400006: Camera.001
+    400008: Model
+    400010: RBSpineLong
+    400012: RBSpineLong_Col
+    400014: RBSpineShort
+    400016: RBSpineShort_Col
+    400018: RBSpineShortEnd
+    400020: RBSpineShortEnd_Col
+    2300000: RBSpineLongEnd
+    2300002: RBSpineLongEnd_Col
+    2300004: Camera.001
+    2300006: Model
+    2300008: RBSpineLong
+    2300010: RBSpineLong_Col
+    2300012: RBSpineShort
+    2300014: RBSpineShort_Col
+    2300016: RBSpineShortEnd
+    2300018: RBSpineShortEnd_Col
+    3300000: RBSpineLongEnd
+    3300002: RBSpineLongEnd_Col
+    3300004: Camera.001
+    3300006: Model
+    3300008: RBSpineLong
+    3300010: RBSpineLong_Col
+    3300012: RBSpineShort
+    3300014: RBSpineShort_Col
+    3300016: RBSpineShortEnd
+    3300018: RBSpineShortEnd_Col
+    4300000: RBSpineLongEnd_Col
+    4300002: RBSpineLongEnd
+    4300004: Model
+    4300006: Camera.001
+    4300008: RBSpineShortEnd_Col
+    4300010: RBSpineShort
+    4300012: RBSpineShort_Col
+    4300014: RBSpineLong
+    4300016: RBSpineLong_Col
+    4300018: RBSpineShortEnd
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
