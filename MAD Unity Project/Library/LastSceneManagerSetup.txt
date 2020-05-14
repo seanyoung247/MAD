@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/RBIntake.unity
+- path: Assets/Scenes/Mk1.5Cockpits/LancastrianNose_IVA.unity
   isLoaded: 1
   isActive: 1

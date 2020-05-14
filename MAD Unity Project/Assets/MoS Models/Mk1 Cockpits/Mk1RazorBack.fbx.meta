@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 51f9a0e464d994a4193378f68c896c2c
+timeCreated: 1491413125
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cockpit
+    100004: COL
+    100006: COL.collider
+    100008: Ladder_Top.001
+    100010: Lamp
+    100012: Lamp.001
+    100014: Lamp.002
+    100016: Lamp.003
+    100018: Lamp.004
+    100020: Lamp.005
+    100022: Lamp.006
+    100024: Lamp.007
+    100026: Mark2Cockpit
+    100028: //RootNode
+    100030: Point light
+    100032: Collider
+    100034: Mk1Cockpit
+    400000: Camera
+    400002: Cockpit
+    400004: COL
+    400006: COL.collider
+    400008: Ladder_Top.001
+    400010: Lamp
+    400012: Lamp.001
+    400014: Lamp.002
+    400016: Lamp.003
+    400018: Lamp.004
+    400020: Lamp.005
+    400022: Lamp.006
+    400024: Lamp.007
+    400026: Mark2Cockpit
+    400028: //RootNode
+    400030: Point light
+    400032: Collider
+    400034: Mk1Cockpit
+    2300000: Cockpit
+    2300002: COL
+    2300004: COL.collider
+    2300006: Ladder_Top.001
+    2300008: Collider
+    2300010: Mk1Cockpit
+    3300000: Cockpit
+    3300002: COL
+    3300004: COL.collider
+    3300006: Ladder_Top.001
+    3300008: Collider
+    3300010: Mk1Cockpit
+    4300000: Cockpit
+    4300002: COL
+    4300004: COL.collider
+    4300006: Ladder_Top.001
+    4300008: Collider
+    4300010: Mk1Cockpit
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit
+    second: {fileID: 2100000, guid: 39bc657d8b6d147e38dea754d8117a02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 63d6dec9b932ca446971d536e4a30dc0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

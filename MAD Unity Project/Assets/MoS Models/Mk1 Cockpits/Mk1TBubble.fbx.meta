@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 50d30efbd068bee458730631134b873b
+timeCreated: 1536353063
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cockpit
+    100002: Cockpit_COL
+    100004: //RootNode
+    100006: Cockpit.001
+    100008: Cockpit.002
+    100010: Cockpit.003
+    100012: Cockpit.004
+    100014: Cockpit_IVA_Body
+    100016: Cockpit_IVA_CanopyFrame_In
+    100018: Cockpit_IVA_CanopyFrame_Out
+    100020: Cockpit_IVA_CanopyGlass
+    100022: Cockpit_IVA_Mask
+    100024: Cube.000
+    100026: Cube.002
+    400000: Cockpit
+    400002: Cockpit_COL
+    400004: //RootNode
+    400006: Cockpit.001
+    400008: Cockpit.002
+    400010: Cockpit.003
+    400012: Cockpit.004
+    400014: Cockpit_IVA_Body
+    400016: Cockpit_IVA_CanopyFrame_In
+    400018: Cockpit_IVA_CanopyFrame_Out
+    400020: Cockpit_IVA_CanopyGlass
+    400022: Cockpit_IVA_Mask
+    400024: Cube.000
+    400026: Cube.002
+    2300000: Cockpit
+    2300002: Cockpit_COL
+    2300004: Cockpit.001
+    2300006: Cockpit.002
+    2300008: Cockpit.003
+    2300010: Cockpit.004
+    2300012: Cockpit_IVA_Body
+    2300014: Cockpit_IVA_CanopyFrame_In
+    2300016: Cockpit_IVA_CanopyFrame_Out
+    2300018: Cockpit_IVA_CanopyGlass
+    2300020: Cockpit_IVA_Mask
+    2300022: Cube.000
+    2300024: Cube.002
+    3300000: Cockpit
+    3300002: Cockpit_COL
+    3300004: Cockpit.001
+    3300006: Cockpit.002
+    3300008: Cockpit.003
+    3300010: Cockpit.004
+    3300012: Cockpit_IVA_Body
+    3300014: Cockpit_IVA_CanopyFrame_In
+    3300016: Cockpit_IVA_CanopyFrame_Out
+    3300018: Cockpit_IVA_CanopyGlass
+    3300020: Cockpit_IVA_Mask
+    3300022: Cube.000
+    3300024: Cube.002
+    4300000: Cockpit_COL
+    4300002: Cockpit
+    4300004: Cockpit_IVA_CanopyFrame_In
+    4300006: Cockpit_IVA_Mask
+    4300008: Cockpit_IVA_CanopyGlass
+    4300010: Cube.000
+    4300012: Cube.002
+    4300014: Cockpit_IVA_Body
+    4300016: Cockpit_IVA_CanopyFrame_Out
+    4300018: Cockpit.004
+    4300020: Cockpit.003
+    4300022: Cockpit.002
+    4300024: Cockpit.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit
+    second: {fileID: 2100000, guid: 864ed707bd1ac424e97a2c064106efca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cockpit.002
+    second: {fileID: 2100000, guid: fda4351c24ff10242b5e18cef02aa98a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IVABody.001
+    second: {fileID: 2100000, guid: ed480ce075e6d7041860154efb737dca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 0a5a09d005502a240bb918b9317d8740, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
